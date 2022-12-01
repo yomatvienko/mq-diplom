@@ -1217,8 +1217,7 @@ body {
 	}
 
 	.shop__item-img-box {
-		width: 292px;
-		max-width: 100%;
+		width: 100%;
 		height: auto;
 	}
 
@@ -1227,7 +1226,7 @@ body {
 	}
 
 	.shop__item-content {
-		max-width: calc(100% + 44px);
+		width: calc(100% + 44px);
 		margin-top: -38px;
 	}
 
@@ -1468,8 +1467,8 @@ body {
 	}
 	
 	.shop__item-img-box {
-		width: 285px;
-		max-width: 100%;
+/*		width: 285px;*/
+		width: 100%;
 		height: auto;
 	}
 
@@ -1478,7 +1477,7 @@ body {
 	}
 
 	.shop__item-content {
-		max-width: calc(100% + 44px);
+		width: calc(100% + 44px);
 		padding: 47px 18px 23px 14px;
 }
 
